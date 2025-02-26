@@ -1,7 +1,5 @@
-# Algoritmo e Lógica de Programação
+# Algoritmo
 
 **Descrição:**
 
-Códigos que desenvolvi durante minhas aulas de algorimo e lógica de programação na faculdado utilizando a linguagem `Python` e alguns desafios propostos pelo professor utilizando a lingugem `C`, aqui você encontrará todas as aulas que tive durante o semestre.
-
-
+Repositório com os códigos que desenvolvi durante as aulas utilizando a linguagem `Python` na disciplina de Algoritmo que cursei no 1° Semestre da faculdade de Anásile e Desenvolvimento de Sistemas.
